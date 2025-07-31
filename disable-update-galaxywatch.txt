@@ -1,0 +1,19 @@
+#only for wearos watch, with sidetools shell
+shell pm disable-user --user 0 com.sec.android.soagent
+shell pm disable-user --user 0 com.wssyncmldm
+shell pm uninstall com.samsung.sree
+shell pm uninstall com.samsung.sree.spin
+shell pm uninstall com.samsung.sree.digital
+shell pm uninstall com.samsung.sree.classic
+shell pm uninstall com.microsoft.office.outlook
+shell pm uninstall com.google.android.apps.youtube.music
+
+shell pm uninstall --user 0 com.google.android.apps.youtube.music
+shell pm uninstall --user 0 com.google.android.wearable.assistant
+shell pm uninstall --user 0 com.samsung.android.watch.budscontroller
+shell pm uninstall --user 0 com.google.android.tts
+shell pm uninstall --user 0 com.google.android.apps.messaging
+shell pm uninstall --user 0 com.android.vending
+shell pm uninstall --user 0 com.samsung.android.shealthmonitor
+shell pm uninstall --user 0 com.samsung.android.app.reminder
+shell pm uninstall --user 0 com.google.android.apps.walletnfcrel
