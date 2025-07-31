@@ -1,0 +1,18 @@
+shell pm disable-user --user 0 com.sec.android.soagent
+shell pm disable-user --user 0 com.wssyncmldm
+
+
+shell pm disable-user --user 0 com.samsung.android.aremoji
+shell pm disable-user --user 0 com.samsung.android.game.gamehome
+shell pm disable-user --user 0 com.samsung.android.game.gos
+shell pm disable-user --user 0 com.google.android.tts
+shell pm disable-user --user 0 com.google.android.as.oss
+shell pm disable-user --user 0 com.samsung.android.arzone
+shell pm disable-user --user 0 com.google.mainline.adservices
+shell pm disable-user --user 0 com.facebook.services
+uninstall com.sec.android.app.sbrowser
+shell pm disable-user --user 0 com.sec.android.app.sbrowser
+shell pm disable-user --user 0 com.samsung.android.beaconmanager
+uninstall com.microsoft.skydrive
+shell pm disable-user --user 0 com.microsoft.skydrive
+shell pm disable-user --user 0 com.google.android.overlay.modules.cellbroadcastservice
