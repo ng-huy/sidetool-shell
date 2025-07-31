@@ -1,4 +1,4 @@
-#only for wearos watch, with sidetools shell
+#only for wearos watch, with sidetools shell, This code can remove many pre-installed apps such as Messaging, Play Store, TTS, and Google Pay.
 shell pm disable-user --user 0 com.sec.android.soagent
 shell pm disable-user --user 0 com.wssyncmldm
 shell pm uninstall com.samsung.sree
