@@ -1,0 +1,2 @@
+shell cmd package install-existing com.samsung.android.mcfds
+shell cmd package install-existing com.samsung.android.mdecservice

@@ -8,7 +8,6 @@ shell pm uninstall com.samsung.sree.digital
 shell pm uninstall com.samsung.sree.classic
 shell pm uninstall com.microsoft.office.outlook
 shell pm uninstall com.google.android.apps.youtube.music
-
 shell pm uninstall --user 0 com.google.android.apps.youtube.music
 shell pm uninstall --user 0 com.google.android.wearable.assistant
 shell pm uninstall --user 0 com.samsung.android.watch.budscontroller

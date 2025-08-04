@@ -1,0 +1,13 @@
+shell cmd package install-existing com.google.android.wearable.healthservice
+shell cmd package install-existing com.samsung.android.service.health
+
+shell cmd package install-existing com.sec.android.easyMover
+shell cmd package install-existing com.samsung.android.wear.smartswitchassistant
+shell cmd package install-existing com.samsung.android.watch.weather
+shell cmd package install-existing com.samsung.android.app.routines
+
+# chú ý, xóa com.google.android.wearable.healthservice có thể gây lỗi hiển thị thành phần
+# chỉ có thể khắc phục bằng cách reset đồng hồ
+
+# Warning: Deleting com.google.android.wearable.healthservice may cause component display issues
+# The only fix is to reset the watch

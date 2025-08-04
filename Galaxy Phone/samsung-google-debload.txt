@@ -17,5 +17,4 @@ shell pm disable-user --user 0 com.samsung.android.beaconmanager
 uninstall com.microsoft.skydrive
 shell pm disable-user --user 0 com.microsoft.skydrive
 shell pm disable-user --user 0 com.google.android.overlay.modules.cellbroadcastservice
-shell pm disable-user --user 0 com.samsung.android.mcfds
 shell pm disable-user --user 0 com.samsung.android.app.spage
