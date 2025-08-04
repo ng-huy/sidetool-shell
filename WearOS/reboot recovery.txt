@@ -1,0 +1,3 @@
+#Khởi động lại thiết bị để wipe
+#Reboot recovery
+shell reboot recovery
