@@ -1,1 +1,0 @@
-shell pm disable-user --user 0 com.android.adservices.api
