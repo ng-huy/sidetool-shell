@@ -16,5 +16,3 @@ shell pm uninstall --user 0 com.android.vending
 shell pm uninstall --user 0 com.samsung.android.shealthmonitor
 shell pm uninstall --user 0 com.samsung.android.app.reminder
 shell pm uninstall --user 0 com.google.android.apps.walletnfcrel
-shell pm uninstall --user 0 com.samsung.android.wear.smartswitchassistant
-shell pm uninstall --user 0 com.sec.android.easyMover

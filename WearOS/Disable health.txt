@@ -1,7 +1,3 @@
 #Nếu không quan tâm chỉ số sức khỏe, vô hiệu Health có thể giúp tiết kiệm nhiều tài nguyên
 #If you don't care about health metrics, disabling Health can help save significant resources.
-
-shell pm disable-user --user 0 com.google.android.wearable.healthservices
 shell pm disable-user --user 0 com.samsung.android.wear.shealth
-shell pm disable-user --user 0 com.google.android.wearable.healthservices
-shell pm disable-user --user 0 com.samsung.android.service.health
