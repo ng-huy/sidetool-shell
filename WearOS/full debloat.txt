@@ -13,7 +13,8 @@ shell pm uninstall --user 0 com.google.android.wearable.assistant
 shell pm uninstall --user 0 com.samsung.android.watch.budscontroller
 shell pm uninstall --user 0 com.google.android.tts
 shell pm uninstall --user 0 com.google.android.apps.messaging
-shell pm uninstall --user 0 com.android.vending
 shell pm uninstall --user 0 com.samsung.android.shealthmonitor
 shell pm uninstall --user 0 com.samsung.android.app.reminder
 shell pm uninstall --user 0 com.google.android.apps.walletnfcrel
+shell pm uninstall --user 0 com.google.android.apps.maps
+shell pm disable-user --user 0 com.google.android.apps.maps
