@@ -1,3 +1,9 @@
 shell pm disable-user --user 0 com.google.android.apps.maps
 shell pm uninstall --user 0 com.google.android.apps.maps
 shell pm uninstall --user 0 com.android.vending
+shell pm uninstall --user 0 com.google.android.apps.fitness
+shell pm uninstall --user 0 com.google.android.apps.translate
+shell pm uninstall --user 0 com.google.android.wearable.reminders
+shell pm uninstall --user 0 com.android.nfc
+shell pm uninstall --user 0 com.google.android.clockwork.nfc
+shell pm uninstall --user 0 android.autoinstalls.config.google.wear
