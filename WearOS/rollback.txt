@@ -11,3 +11,6 @@ shell cmd package install-existing com.samsung.android.app.routines
 
 # Warning: Deleting com.google.android.wearable.healthservice may cause component display issues
 # The only fix is to reset the watch
+
+shell cmd package install-existing com.android.nfc
+shell cmd package install-existing com.google.android.clockwork.nfc
